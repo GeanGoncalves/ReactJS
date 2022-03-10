@@ -7,6 +7,5 @@
 - JavaScript
 - ReactJS
 - Node
-- React
 - Git
 - GitHub
