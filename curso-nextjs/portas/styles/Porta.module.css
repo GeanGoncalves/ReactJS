@@ -1,0 +1,14 @@
+.porta {
+  display: flex;
+  flex-direction: column;
+  background-color: chocolate;
+  align-items: center;
+  padding: 15px;
+  /* TEMP */
+  width: 200px;
+  height: 310px;
+}
+
+.numero {
+  font-size: 3rem;
+}
