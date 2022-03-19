@@ -4,13 +4,16 @@ import PortaModel from '../model/porta'
 
 interface PortaProps{
     value: PortaModel
+    onChange: (novaPorta: PortaModel) => void
 }
 
 export default function Porta(props: PortaProps){
-const porta = props.value
+    const porta = props.value
     const selecionada = porta.selecionada ? styles.selecionada : ''
+    const alterarSelecao = e => props.onChange(porta.alternarSelecao())
+    
     return(
-        <div className={styles.area}>
+        <div className={styles.area} onClick={alterarSelecao}>
             <div className={`${styles.estrutura} ${selecionada}`}>
             <div className={styles.porta}>
             <div className={styles.numero}>{porta.numero}</div>
