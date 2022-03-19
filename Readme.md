@@ -7,5 +7,8 @@
 - JavaScript
 - ReactJS
 - Node
+- TypeScript
+- Css
+- HTML
 - Git
 - GitHub
