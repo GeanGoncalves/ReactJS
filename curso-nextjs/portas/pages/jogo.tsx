@@ -2,6 +2,7 @@ import styles from "../styles/Jogo.module.css"
 import { useState } from "react"
 import Porta from "../components/Porta"
 import { atualizarPortas, criarPortas } from "../functions/portas"
+import Link from "next/link"
 
 export default function jogo(){
     
@@ -20,7 +21,9 @@ export default function jogo(){
     {renderizarPortas()}
             </div>
           <div className={styles.botoes}>
-            
+            <Link href="/">
+                <button>Reinicar Jogo</button>
+            </Link>
             </div>  
     </div>   
     )
