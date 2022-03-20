@@ -11,4 +11,3 @@
 - Css
 - HTML
 - Git
-- GitHub
