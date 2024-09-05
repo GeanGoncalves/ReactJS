@@ -1,13 +1,44 @@
-<h1>Capacitação de ReactJS</h1>
 
-> <p style='text-align: justify;'> O React (também denominado React.js ou ReactJS) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário (frontend) em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros. </p>
+# Curso de ReactJS
 
-### 🖥️Tecnologias utilizadas:
+Este repositório contém os materiais e exercícios desenvolvidos durante o curso de **ReactJS**, com foco em construir aplicações web dinâmicas e interativas. As tecnologias utilizadas incluem **JavaScript**, **NodeJS**, **TypeScript**, **CSS** e **HTML**.
 
-- JavaScript
-- ReactJS
-- Node
-- TypeScript
-- Css
-- HTML
-- Git
+## 📚 Conteúdo do Curso
+
+1. **Introdução ao React**
+   - Conceitos de componentes
+   - JSX e renderização
+   - Props e estado (state)
+2. **JavaScript e TypeScript no React**
+   - Diferenças e uso de TypeScript no React
+   - Tipagem de componentes e funções
+3. **Gerenciamento de Estado**
+   - Hooks (useState, useEffect)
+   - Context API e Redux (opcional)
+4. **Integração com Backend**
+   - Comunicação com API usando **NodeJS**
+   - Gerenciamento de dados com Fetch/Axios
+5. **Estilização de Componentes**
+   - CSS Modules
+   - Styled Components
+
+## 🛠️ Ferramentas e Tecnologias
+
+- **ReactJS**
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **NodeJS**
+- **CSS3**
+- **HTML5**
+
+## 📈 Próximos Passos
+
+Ao concluir este curso, você será capaz de desenvolver aplicações front-end com ReactJS, utilizar JavaScript ou TypeScript, integrar com backend utilizando NodeJS, e estilizar componentes com CSS.
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Faça um fork deste repositório e envie suas melhorias.
+
+---
+
+Esse template pode ser adaptado conforme a sua necessidade e a estrutura do projeto.
