@@ -1,44 +1,39 @@
 
-# Curso de ReactJS
+# Curso de ReactJS - Fundamentos e Aplicações
 
-Este repositório contém os materiais e exercícios desenvolvidos durante o curso de **ReactJS**, com foco em construir aplicações web dinâmicas e interativas. As tecnologias utilizadas incluem **JavaScript**, **NodeJS**, **TypeScript**, **CSS** e **HTML**.
+Este repositório contém o material e exercícios do curso de **ReactJS**, abordando os conceitos fundamentais do desenvolvimento com **JavaScript**, **NextJS**, **TypeScript**, **CSS** e **HTML**.
 
 ## 📚 Conteúdo do Curso
 
-1. **Introdução ao React**
-   - Conceitos de componentes
-   - JSX e renderização
-   - Props e estado (state)
-2. **JavaScript e TypeScript no React**
-   - Diferenças e uso de TypeScript no React
-   - Tipagem de componentes e funções
-3. **Gerenciamento de Estado**
-   - Hooks (useState, useEffect)
-   - Context API e Redux (opcional)
-4. **Integração com Backend**
-   - Comunicação com API usando **NodeJS**
-   - Gerenciamento de dados com Fetch/Axios
-5. **Estilização de Componentes**
-   - CSS Modules
-   - Styled Components
+1. **Fundamentos do ReactJS**
+   - Componentes funcionais e de classe
+   - Estado e ciclo de vida
+   - Props e renderização condicional
+2. **NextJS**
+   - Estrutura de páginas e roteamento
+   - Server-side rendering (SSR)
+   - Static site generation (SSG)
+3. **Introdução ao TypeScript**
+   - Tipagem estática
+   - Interfaces e tipos avançados
+   - Integração com ReactJS
+4. **Estilização com CSS**
+   - Styled-components e CSS Modules
+   - Layout responsivo com Flexbox e Grid
 
 ## 🛠️ Ferramentas e Tecnologias
 
 - **ReactJS**
+- **NextJS**
 - **JavaScript (ES6+)**
 - **TypeScript**
-- **NodeJS**
 - **CSS3**
 - **HTML5**
 
 ## 📈 Próximos Passos
 
-Ao concluir este curso, você será capaz de desenvolver aplicações front-end com ReactJS, utilizar JavaScript ou TypeScript, integrar com backend utilizando NodeJS, e estilizar componentes com CSS.
+Após concluir este curso, você estará apto a criar aplicações React com **NextJS** e **TypeScript**, utilizando boas práticas de desenvolvimento web moderno.
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Faça um fork deste repositório e envie suas melhorias.
-
----
-
-Esse template pode ser adaptado conforme a sua necessidade e a estrutura do projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou fazer pull requests.
